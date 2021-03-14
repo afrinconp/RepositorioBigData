@@ -1,4 +1,4 @@
-## Primera Tarea de regresion lineal
+## Tarea de regresion lineal
 
 A continuacion se muestran algunos links donde se podra examinar mejor las tareas
 
