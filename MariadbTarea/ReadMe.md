@@ -30,6 +30,3 @@ Capítulo 15: Bulk Importing Data
 
 Capítulo 16: Application Programming Interfaces
 
-
-
-fdfdfdfd00ds0dsdsdsdsddsdfsdfsdfsdfsdfsdfsdfsdfsdfsd
