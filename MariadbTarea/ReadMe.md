@@ -1,4 +1,4 @@
-## Tarea de regresion lineal
+## Learning MySQL and MariaDB
 
 ## Autor: Andres Felipe Rincon Prieto
 
