@@ -1,3 +1,3 @@
 ## Diseño y construcción de una base de datos
 
-# Andres Felipe Rincon Prieto
+# Autor: Andres Felipe Rincon Prieto
